@@ -1,5 +1,14 @@
 {
-  "recentFiles": [],
+  "recentFiles": [
+    {
+      "basename": "title",
+      "path": "images/title.png"
+    },
+    {
+      "basename": "icon_gray",
+      "path": "images/icon_gray.jpg"
+    }
+  ],
   "omittedPaths": [
     ""
   ],

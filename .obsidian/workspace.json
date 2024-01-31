@@ -339,6 +339,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "title",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/title.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "icon_gray",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/icon_gray.jpg\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "README",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
@@ -626,10 +638,9 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "f6432220a5157bab",
+  "active": "78b03018da2815b5",
   "lastOpenFiles": [
     "images/icon_gray.jpg",
-    "images/title.png",
     "images/title.png",
     "README.md",
     "images/Screenshot 2024-01-30 at 11.16.32 PM.png",
