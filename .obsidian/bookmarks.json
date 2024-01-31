@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1705990335859,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1705990335859,
+          "path": "!start_here.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1705990335859,
+          "items": [],
+          "title": "macOS"
+        },
+        {
+          "type": "group",
+          "ctime": 1705990335859,
+          "items": [],
+          "title": "linux"
+        },
+        {
+          "type": "group",
+          "ctime": 1705990335859,
+          "items": [],
+          "title": "windows"
+        },
+        {
+          "type": "file",
+          "ctime": 1705990335859,
+          "path": "README.md",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
