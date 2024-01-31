@@ -6,29 +6,350 @@
       {
         "id": "f353ddcaafd0b2c7",
         "type": "tabs",
+        "dimension": 40.91470951792336,
         "children": [
           {
             "id": "f50a0db8c3018a43",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-30 at 11.17.10 PM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/Screenshot 2024-01-30 at 11.17.10 PM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-30 at 11.17.01 PM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/Screenshot 2024-01-30 at 11.17.01 PM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-30 at 11.16.53 PM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/Screenshot 2024-01-30 at 11.16.53 PM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-30 at 11.16.43 PM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/Screenshot 2024-01-30 at 11.16.43 PM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-30 at 11.16.32 PM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/Screenshot 2024-01-30 at 11.16.32 PM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":13.791872791519435}"
+                },
+                {
+                  "title": "!start_here",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"!start_here.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":202},\"to\":{\"line\":11,\"ch\":202}},\"scroll\":0.8473867595818816}"
+                },
+                {
+                  "title": "!start_here",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"!start_here.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":204.3565757680359}"
+                },
+                {
+                  "title": "TrashMe 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"macOS/TrashMe 3.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "System Information",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"macOS/System Information.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Script Editor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"macOS/Script Editor.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Screen Mirror over USB",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"macOS/Screen Mirror over USB.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "title": "macOS",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"macOS/macOS.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.084570690768238}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Freeform",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"macOS/Freeform.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Disk Utility",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"macOS/Disk Utility.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "altTab",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"macOS/altTab.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Activity Monitor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"macOS/Activity Monitor.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Screenshot 2024-01-18 at 12.31.46 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-18 at 12.31.46 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-18 at 12.35.43 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-18 at 12.35.43 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-18 at 12.31.46 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-18 at 12.31.46 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-18 at 12.14.53 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-18 at 12.14.53 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-18 at 12.14.40 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-18 at 12.14.40 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-18 at 12.14.53 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-18 at 12.14.53 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-18 at 12.14.40 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-18 at 12.14.40 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-18 at 12.14.53 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-18 at 12.14.53 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-18 at 12.14.40 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-18 at 12.14.40 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-18 at 10.26.40 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-18 at 10.26.40 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-18 at 10.26.07 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-18 at 10.26.07 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-18 at 10.25.19 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-18 at 10.25.19 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-18 at 10.18.12 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-18 at 10.18.12 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-18 at 9.23.04 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-18 at 9.23.04 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-18 at 9.08.03 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-18 at 9.08.03 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-18 at 8.45.33 AM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-18 at 8.45.33 AM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-18 at 7.07.03 PM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-18 at 7.07.03 PM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-15 at 6.34.16 PM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-15 at 6.34.16 PM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-15 at 6.32.24 PM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-15 at 6.32.24 PM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-11 at 6.01.56 PM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-11 at 6.01.56 PM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-11 at 6.01.44 PM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-11 at 6.01.44 PM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-11 at 6.01.49 PM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-11 at 6.01.49 PM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-11 at 5.54.27 PM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-11 at 5.54.27 PM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Screenshot 2024-01-11 at 5.51.14 PM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Screenshot 2024-01-11 at 5.51.14 PM.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pasted image 20240118004703",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Pasted image 20240118004703.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pasted image 20240118004448",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Pasted image 20240118004448.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Activity Monitor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"macOS/Activity Monitor.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Pasted image 20240118004703",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Pasted image 20240118004703.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pasted image 20240118004448",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"macOS/images/Pasted image 20240118004448.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "!start_here",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"!start_here.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":191,\"ch\":0},\"to\":{\"line\":191,\"ch\":0}},\"scroll\":201.27125506072875}"
+                }
+              ]
+            },
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Screenshot 2024-01-30 at 11.16.32 PM.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e51e690a1b3e60fd",
+        "type": "tabs",
+        "dimension": 59.08529048207664,
+        "children": [
+          {
+            "id": "78b03018da2815b5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "icon_gray",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/icon_gray.jpg\"}}",
+                  "eState": "{}"
                 },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "!start_here",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"!start_here.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":195,\"ch\":15},\"to\":{\"line\":195,\"ch\":15}},\"scroll\":190.80515848353014}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!start_here.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +474,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!start_here.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +500,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!start_here.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +541,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!start_here.md"
+                "file": "README.md"
               }
             }
           },
@@ -301,18 +622,36 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "f50a0db8c3018a43",
+  "active": "78b03018da2815b5",
   "lastOpenFiles": [
-    "macOS/macOS.md",
+    "images/Screenshot 2024-01-30 at 11.16.32 PM.png",
+    "images/Screenshot 2024-01-30 at 11.17.10 PM.png",
+    "README.md",
+    "images/icon_gray.jpg",
     "!start_here.md",
+    "images/Screenshot 2024-01-30 at 11.17.01 PM.png",
+    "images/Screenshot 2024-01-30 at 11.16.53 PM.png",
+    "images/Screenshot 2024-01-30 at 11.16.43 PM.png",
+    "images",
+    "macOS/TrashMe 3.md",
+    "macOS/System Information.md",
+    "macOS/Script Editor.md",
+    "macOS/Screen Mirror over USB.md",
+    "macOS/macOS.md",
+    "macOS/Freeform.md",
+    "macOS/Disk Utility.md",
+    "macOS/altTab.md",
+    "macOS/Activity Monitor.md",
+    "macOS/images/Screenshot 2024-01-18 at 12.31.46 AM.png",
+    "macOS/images/Screenshot 2024-01-18 at 12.35.43 AM.png",
+    "macOS/images/Screenshot 2024-01-18 at 12.14.53 AM.png",
+    "macOS/images/Screenshot 2024-01-18 at 12.14.40 AM.png",
     "start_here/Files & Links.md",
     "start_here/Core plugins.md",
     "start_here/Appearance.md",
     "start_here/!why_obsidian.md",
     "start_here/!start_here.md",
-    "images/Screenshot 2023-12-31 at 2.02.54 AM.png",
     "Command Center/Inbox.md",
-    "README.md",
     "computer_productivity/!start_here.md",
     "computer_productivity/macOS/Alfred 5.md",
     "templates/template effort/6_final_archive/archive/Archive.md",
@@ -323,31 +662,12 @@
     "templates/template effort/6_final_archive/final_outputs",
     "templates/template effort/6_final_archive/archive",
     "templates/template effort/6_final_archive/Future Enhancements.md",
-    "templates/template effort/5_comm_collab/Feedback and Collaboration.md",
-    "templates/template effort/5_comm_collab/Contacts and Communication.md",
-    "templates/template effort/4_review_adjust/Self-Evaluation.md",
-    "templates/template effort/4_review_adjust/Improvement Plan.md",
     "templates/template effort/3_research_dev/notes_ideas",
     "templates/template effort/3_research_dev/learning_resources",
     "templates/template effort/3_research_dev/files_docs",
-    "templates/template effort/2_plan_strategy/2 Progress Tracking.md",
-    "templates/template effort/2_plan_strategy/1 Action Plan.md",
-    "templates/template effort/2_plan_strategy/0 Timeline & Milestones.md",
-    "templates/template effort/1_charter/2 Budget & Resources.md",
-    "templates/template effort/1_charter/1 Brainstorm.md",
     "templates/template effort/6_final_archive",
     "templates/template effort/5_comm_collab",
     "templates/template effort/4_review_adjust",
-    "templates/template effort/3_research_dev",
-    "templates/template effort/2_plan_strategy",
-    "start_here/Community Plugins/dataview/images/Screenshot 2023-12-26 at 4.36.22 PM.png",
-    "start_here/Community Plugins/dataview/images/Screenshot 2023-12-26 at 5.21.39 PM.png",
-    "start_here/Community Plugins/dataview/images/Screenshot 2023-12-26 at 4.36.10 PM.png",
-    "start_here/Community Plugins/dataview/images/Screenshot 2023-12-26 at 4.36.17 PM.png",
-    "start_here/Community Plugins/dataview/images/Screenshot 2023-12-26 at 4.35.30 PM.png",
-    "start_here/Community Plugins/images/Screenshot 2023-12-29 at 9.59.40 PM.png",
-    "start_here/Community Plugins/images/Screenshot 2023-12-29 at 9.57.48 PM.png",
-    "start_here/Community Plugins/images/Screenshot 2023-12-29 at 9.46.39 PM.png",
-    "start_here/Community Plugins/images/Screenshot 2023-12-29 at 9.44.23 PM.png"
+    "templates/template effort/3_research_dev"
   ]
 }

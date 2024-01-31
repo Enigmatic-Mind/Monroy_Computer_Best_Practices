@@ -148,7 +148,7 @@ Here's a detailed checklist of the process I followed to streamline my file mana
 
 
 # Backup
-nvesting time and effort into setting up your computer system makes it crucial to consider robust backup solutions. The risk of data loss due to hardware failure, theft, or accidental damage is real and can result in significant setbacks. To safeguard against such eventualities, implementing a dual backup strategy combining local and cloud-based solutions is essential. This approach ensures your data is protected in multiple locations, providing peace of mind and facilitating quick recovery when needed.
+investing time and effort into setting up your computer system makes it crucial to consider robust backup solutions. The risk of data loss due to hardware failure, theft, or accidental damage is real and can result in significant setbacks. To safeguard against such eventualities, implementing a dual backup strategy combining local and cloud-based solutions is essential. This approach ensures your data is protected in multiple locations, providing peace of mind and facilitating quick recovery when needed.
 
 Here's a breakdown of the backup strategies I recommend and personally use.
 

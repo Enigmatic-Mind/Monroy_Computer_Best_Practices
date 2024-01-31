@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Screenshot 2024-01-30 at 11.16.32 PM",
+      "path": "images/Screenshot 2024-01-30 at 11.16.32 PM.png"
+    },
+    {
+      "basename": "Screenshot 2024-01-30 at 11.17.10 PM",
+      "path": "images/Screenshot 2024-01-30 at 11.17.10 PM.png"
+    },
+    {
+      "basename": "icon_gray",
+      "path": "images/icon_gray.jpg"
+    },
+    {
       "basename": "!start_here",
       "path": "!start_here.md"
     },
     {
-      "basename": "macOS",
-      "path": "macOS/macOS.md"
+      "basename": "Screenshot 2024-01-30 at 11.17.01 PM",
+      "path": "images/Screenshot 2024-01-30 at 11.17.01 PM.png"
+    },
+    {
+      "basename": "Screenshot 2024-01-30 at 11.16.53 PM",
+      "path": "images/Screenshot 2024-01-30 at 11.16.53 PM.png"
+    },
+    {
+      "basename": "Screenshot 2024-01-30 at 11.16.43 PM",
+      "path": "images/Screenshot 2024-01-30 at 11.16.43 PM.png"
     }
   ],
   "omittedPaths": [
