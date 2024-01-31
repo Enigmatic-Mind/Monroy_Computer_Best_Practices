@@ -326,8 +326,12 @@
             "id": "78b03018da2815b5",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
                 {
                   "title": "icon_gray",
                   "icon": "lucide-image",
@@ -335,8 +339,10 @@
                   "eState": "{}"
                 },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":4},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "!start_here",
@@ -347,11 +353,9 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "images/title.png"
               }
             }
           }
@@ -474,7 +478,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "images/title.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -500,7 +504,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "images/title.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -541,7 +545,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "images/title.png"
               }
             }
           },
@@ -622,13 +626,14 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "78b03018da2815b5",
+  "active": "f6432220a5157bab",
   "lastOpenFiles": [
-    "images/Screenshot 2024-01-30 at 11.16.32 PM.png",
-    "README.md",
-    "images/title.png",
-    "images/Screenshot 2024-01-30 at 11.17.10 PM.png",
     "images/icon_gray.jpg",
+    "images/title.png",
+    "images/title.png",
+    "README.md",
+    "images/Screenshot 2024-01-30 at 11.16.32 PM.png",
+    "images/Screenshot 2024-01-30 at 11.17.10 PM.png",
     "!start_here.md",
     "images/Screenshot 2024-01-30 at 11.17.01 PM.png",
     "images/Screenshot 2024-01-30 at 11.16.53 PM.png",
