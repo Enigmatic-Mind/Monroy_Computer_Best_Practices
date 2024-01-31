@@ -326,10 +326,22 @@
             "id": "78b03018da2815b5",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
+                  "title": "title",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/title.png\"}}",
+                  "eState": "{}"
+                },
+                {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "title",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"images/title.png\"}}",
                   "eState": "{}"
                 },
                 {
@@ -367,7 +379,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "images/title.png"
+                "file": "images/Screenshot 2024-01-30 at 11.17.10 PM.png"
               }
             }
           }
@@ -490,7 +502,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/title.png",
+                "file": "images/Screenshot 2024-01-30 at 11.17.10 PM.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -516,7 +528,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/title.png",
+                "file": "images/Screenshot 2024-01-30 at 11.17.10 PM.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -557,7 +569,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/title.png"
+                "file": "images/Screenshot 2024-01-30 at 11.17.10 PM.png"
               }
             }
           },
@@ -640,11 +652,11 @@
   },
   "active": "78b03018da2815b5",
   "lastOpenFiles": [
-    "images/icon_gray.jpg",
     "images/title.png",
+    "images/Screenshot 2024-01-30 at 11.17.10 PM.png",
+    "images/icon_gray.jpg",
     "README.md",
     "images/Screenshot 2024-01-30 at 11.16.32 PM.png",
-    "images/Screenshot 2024-01-30 at 11.17.10 PM.png",
     "!start_here.md",
     "images/Screenshot 2024-01-30 at 11.17.01 PM.png",
     "images/Screenshot 2024-01-30 at 11.16.53 PM.png",
