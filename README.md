@@ -9,7 +9,7 @@
 [Obsidian](https://obsidian.md/) is a powerful, free note-taking application with a lot of flexibility and customization options. Also, notes are stored locally!
 
 # 🔐 What is the Monroy Computer Best Practices Vault?
-Obsidian notes are organized within vaults, which can be thought of as root folders. Each vault can be uniquely customized to suit different workflows and preferences. The Monroy Computer Best Practices Vault is designed with a few main objectives: 1) to enhance productivity and efficiency with your computer through settings and applications, 2) file management guide, 3) backup guide, 4) encryption guide, and 5) password management guide.
+Obsidian notes are organized within vaults, which can be thought of as root folders. Each vault can be uniquely customized to suit different workflows and preferences. The Monroy Computer Best Practices Vault aims to achieve several key objectives: enhancing productivity and efficiency through optimized settings and applications, providing comprehensive guides on file management, backup strategies, encryption techniques, and password management.
 
 This vault is the result of the process I have undergone to set up my own computer. The result is a guide that's not only highly functional but also practical and cuts through the fluff.
 
